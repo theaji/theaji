@@ -3,7 +3,7 @@
 ## 👀  About me
 - 💼 I have 4+ years progressive experience in IT
 - 🧑‍💻 I'm passionate about learning new things
-- 🌱 I’m currently learning: Python & several AWS technologies
+- 🌱 I’m currently learning: Python & several AWS services
 - :zap: My hobbies include: expanding my homelab 💻 playing the piano 🎹 and watching sports 🏈⚽
 
 
