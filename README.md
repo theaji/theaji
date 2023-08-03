@@ -2,12 +2,15 @@
 
 
 
-## 💻 Projects
+## 💻 Scripts
 
+- [All Projects/Scripts](https://github.com/theaji/projects)
+- [CloudFormation Templates](https://github.com/theaji/projects/tree/main/CloudFormation)
+- [Bash Scripts](https://github.com/theaji/projects/tree/main/Bash)
 - [Cloud Resume Challenge](https://github.com/theaji/cloud-resume)
 - [CodePipeline EC2 Application](https://github.com/theaji/projects/tree/main/CloudFormation/codepipeline_ec2app)
-- [Lambda Quote of the Day](https://github.com/theaji/qotd)
-- [All projects](https://github.com/theaji/projects)
+
+
 
 ## 📃 Certifications
 
