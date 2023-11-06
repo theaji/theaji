@@ -8,14 +8,13 @@
 - [CloudFormation Templates](https://github.com/theaji/projects/tree/main/CloudFormation)
 - [Bash Scripts](https://github.com/theaji/projects/tree/main/Bash)
 - [Cloud Resume Challenge](https://github.com/theaji/cloud-resume)
-- [CodePipeline EC2 Application](https://github.com/theaji/projects/tree/main/CloudFormation/codepipeline_ec2app)
+- [CI/CD using Codepipeline](https://github.com/theaji/projects/tree/main/CloudFormation/codepipeline_ec2app)
 
 
 
 ## 📃 Certifications
 
 - AWS Solutions Architect Associate
-- AWS Developer Associate
 - AWS SysOps Administrator Associate
 
 
