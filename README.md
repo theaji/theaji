@@ -2,14 +2,15 @@
 
 
 
-## 💻 Scripts
+## 💻 Scripts/Templates/Projects
 
-- [All Projects/Scripts](https://github.com/theaji/projects)
-- [CloudFormation Templates](https://github.com/theaji/projects/tree/main/CloudFormation)
+- [All Scripts/Templates](https://github.com/theaji/projects)
 - [Bash Scripts](https://github.com/theaji/projects/tree/main/Bash)
 - [Cloud Resume Challenge](https://github.com/theaji/cloud-resume)
+- [CloudFormation Templates](https://github.com/theaji/projects/tree/main/CloudFormation)
 - [CI/CD using Codepipeline](https://github.com/theaji/projects/tree/main/CloudFormation/codepipeline_ec2app)
-
+- [Kubernetes Templates](https://github.com/theaji/projects/tree/main/Kubernetes)
+- [Serverless QOTD Application](https://github.com/theaji/qotd)
 
 
 ## 📃 Certifications
