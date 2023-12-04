@@ -3,15 +3,15 @@
 ## 💻 Projects
 
 - [Cloud Resume Challenge](https://github.com/theaji/cloud-resume)
-- [CI/CD using Codepipeline](https://github.com/theaji/projects/tree/main/CloudFormation/codepipeline_ec2app)
+- [CI/CD using Codepipeline](https://github.com/theaji/templates/tree/main/CloudFormation/codepipeline_ec2app)
 - [Serverless QOTD Application](https://github.com/theaji/qotd)
 
 
 ## 💻 Scripts/Templates
 
-- [Bash](https://github.com/theaji/projects/tree/main/Bash)
-- [CloudFormation](https://github.com/theaji/projects/tree/main/CloudFormation)
-- [Kubernetes](https://github.com/theaji/projects/tree/main/Kubernetes)
+- [Bash](https://github.com/theaji/templates/tree/main/Bash)
+- [CloudFormation](https://github.com/theaji/templatess/tree/main/CloudFormation)
+- [Kubernetes](https://github.com/theaji/templates/tree/main/Kubernetes)
 
 ## 📃 Certifications
 
