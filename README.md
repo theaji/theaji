@@ -1,23 +1,23 @@
 ## 👋 Hi, I’m Theo!
 
+## 💻 Projects
 
-
-## 💻 Scripts/Templates/Projects
-
-- [All Scripts/Templates](https://github.com/theaji/projects)
-- [Bash Scripts](https://github.com/theaji/projects/tree/main/Bash)
 - [Cloud Resume Challenge](https://github.com/theaji/cloud-resume)
-- [CloudFormation Templates](https://github.com/theaji/projects/tree/main/CloudFormation)
 - [CI/CD using Codepipeline](https://github.com/theaji/projects/tree/main/CloudFormation/codepipeline_ec2app)
-- [Kubernetes Templates](https://github.com/theaji/projects/tree/main/Kubernetes)
 - [Serverless QOTD Application](https://github.com/theaji/qotd)
 
+
+## 💻 Scripts/Templates
+
+- [Bash](https://github.com/theaji/projects/tree/main/Bash)
+- [CloudFormation](https://github.com/theaji/projects/tree/main/CloudFormation)
+- [Kubernetes](https://github.com/theaji/projects/tree/main/Kubernetes)
 
 ## 📃 Certifications
 
 - AWS Solutions Architect Associate
 - AWS SysOps Administrator Associate
-
+- Certified Kubernetes Administator
 
 ## 🛠️ Skills & Tools
 
