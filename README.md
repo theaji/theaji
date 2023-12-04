@@ -10,7 +10,7 @@
 ## 💻 Scripts/Templates
 
 - [Bash](https://github.com/theaji/templates/tree/main/Bash)
-- [CloudFormation](https://github.com/theaji/templatess/tree/main/CloudFormation)
+- [CloudFormation](https://github.com/theaji/templates/tree/main/CloudFormation)
 - [Kubernetes](https://github.com/theaji/templates/tree/main/Kubernetes)
 
 ## 📃 Certifications
