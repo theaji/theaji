@@ -3,7 +3,7 @@
 ## 💻 Projects
 
 - [Cloud Resume Challenge](https://github.com/theaji/cloud-resume)
-- [CI/CD using Codepipeline](https://github.com/theaji/templates/tree/main/CloudFormation/codepipeline_ec2app)
+- [RPi4 K8s Cluster Bootstrap](https://github.com/theaji/k8s-alpine)
 - [Serverless QOTD Application](https://github.com/theaji/qotd)
 
 
