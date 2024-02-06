@@ -3,7 +3,7 @@
 ## 💻 Projects
 
 - [Kubernetes Cluster Bootstrap on Alpine](https://github.com/theaji/k8s-alpine)
-- [K8s lab expansion projects](https://github.com/theaji/k8s-lab)
+- [K8s Homelab Projects](https://github.com/theaji/k8s-lab)
 - [Cloud Resume Challenge](https://github.com/theaji/cloud-resume)
 - [Serverless QOTD Application](https://github.com/theaji/qotd)
 
