@@ -8,16 +8,10 @@
 - [Serverless QOTD Application](https://github.com/theaji/qotd)
 
 
-## 💻 Scripts/Templates
-
-- [Bash](https://github.com/theaji/templates/tree/main/Bash)
-- [CloudFormation](https://github.com/theaji/templates/tree/main/CloudFormation)
-- [Kubernetes](https://github.com/theaji/templates/tree/main/Kubernetes)
-
 ## 📃 Certifications
 
-- AWS Solutions Architect Associate
 - AWS SysOps Administrator Associate
+- AWS Security Specialty
 - Certified Kubernetes Administator
 
 ## 🛠️ Skills & Tools
